@@ -1,0 +1,2129 @@
+Test case: ../test_circuits/cct3
+Average runtime over 25 runs: 0.217402 seconds
+Total time taken for the experiment: 5.50 seconds
+
+
+Run 1 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.252651
+
+Run 1: Runtime = 0.252651 seconds
+
+Run 2 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.220338
+
+Run 2: Runtime = 0.220338 seconds
+
+Run 3 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.238331
+
+Run 3: Runtime = 0.238331 seconds
+
+Run 4 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.186116
+
+Run 4: Runtime = 0.186116 seconds
+
+Run 5 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.230293
+
+Run 5: Runtime = 0.230293 seconds
+
+Run 6 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.189588
+
+Run 6: Runtime = 0.189588 seconds
+
+Run 7 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.234408
+
+Run 7: Runtime = 0.234408 seconds
+
+Run 8 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.188783
+
+Run 8: Runtime = 0.188783 seconds
+
+Run 9 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.230949
+
+Run 9: Runtime = 0.230949 seconds
+
+Run 10 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.188366
+
+Run 10: Runtime = 0.188366 seconds
+
+Run 11 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.231515
+
+Run 11: Runtime = 0.231515 seconds
+
+Run 12 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.207226
+
+Run 12: Runtime = 0.207226 seconds
+
+Run 13 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.232057
+
+Run 13: Runtime = 0.232057 seconds
+
+Run 14 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.18798
+
+Run 14: Runtime = 0.18798 seconds
+
+Run 15 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.231835
+
+Run 15: Runtime = 0.231835 seconds
+
+Run 16 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.188714
+
+Run 16: Runtime = 0.188714 seconds
+
+Run 17 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.234945
+
+Run 17: Runtime = 0.234945 seconds
+
+Run 18 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.188501
+
+Run 18: Runtime = 0.188501 seconds
+
+Run 19 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.217941
+
+Run 19: Runtime = 0.217941 seconds
+
+Run 20 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.190029
+
+Run 20: Runtime = 0.190029 seconds
+
+Run 21 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.218905
+
+Run 21: Runtime = 0.218905 seconds
+
+Run 22 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.237528
+
+Run 22: Runtime = 0.237528 seconds
+
+Run 23 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.221826
+
+Run 23: Runtime = 0.221826 seconds
+
+Run 24 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.252781
+
+Run 24: Runtime = 0.252781 seconds
+
+Run 25 Output:
+FPGA Gridsize:16
+FPGA Number of Tracks in each channel:14
+Total Number of Test Cases:76
+Routing Complete, Total Wiresegments for test case 0 : 12
+Routing Complete, Total Wiresegments for test case 1 : 6
+Routing Complete, Total Wiresegments for test case 2 : 14
+Routing Complete, Total Wiresegments for test case 3 : 8
+Routing Complete, Total Wiresegments for test case 4 : 17
+Routing Complete, Total Wiresegments for test case 5 : 8
+Routing Complete, Total Wiresegments for test case 6 : 6
+Routing Complete, Total Wiresegments for test case 7 : 8
+Routing Complete, Total Wiresegments for test case 8 : 6
+Routing Complete, Total Wiresegments for test case 9 : 10
+Routing Complete, Total Wiresegments for test case 10 : 11
+Routing Complete, Total Wiresegments for test case 11 : 9
+Routing Complete, Total Wiresegments for test case 12 : 4
+Routing Complete, Total Wiresegments for test case 13 : 12
+Routing Complete, Total Wiresegments for test case 14 : 19
+Routing Complete, Total Wiresegments for test case 15 : 5
+Routing Complete, Total Wiresegments for test case 16 : 12
+Routing Complete, Total Wiresegments for test case 17 : 9
+Routing Complete, Total Wiresegments for test case 18 : 8
+Routing Complete, Total Wiresegments for test case 19 : 7
+Routing Complete, Total Wiresegments for test case 20 : 13
+Routing Complete, Total Wiresegments for test case 21 : 9
+Routing Complete, Total Wiresegments for test case 22 : 5
+Routing Complete, Total Wiresegments for test case 23 : 4
+Routing Complete, Total Wiresegments for test case 24 : 21
+Routing Complete, Total Wiresegments for test case 25 : 8
+Routing Complete, Total Wiresegments for test case 26 : 4
+Routing Complete, Total Wiresegments for test case 27 : 7
+Routing Complete, Total Wiresegments for test case 28 : 5
+Routing Complete, Total Wiresegments for test case 29 : 12
+Routing Complete, Total Wiresegments for test case 30 : 23
+Routing Complete, Total Wiresegments for test case 31 : 14
+Routing Complete, Total Wiresegments for test case 32 : 11
+Routing Complete, Total Wiresegments for test case 33 : 12
+Routing Complete, Total Wiresegments for test case 34 : 11
+Routing Complete, Total Wiresegments for test case 35 : 11
+Routing Complete, Total Wiresegments for test case 36 : 14
+Routing Complete, Total Wiresegments for test case 37 : 7
+Routing Complete, Total Wiresegments for test case 38 : 8
+Routing Complete, Total Wiresegments for test case 39 : 12
+Routing Complete, Total Wiresegments for test case 40 : 5
+Routing Complete, Total Wiresegments for test case 41 : 15
+Routing Complete, Total Wiresegments for test case 42 : 7
+Routing Complete, Total Wiresegments for test case 43 : 13
+Routing Complete, Total Wiresegments for test case 44 : 14
+Routing Complete, Total Wiresegments for test case 45 : 22
+Routing Complete, Total Wiresegments for test case 46 : 14
+Routing Complete, Total Wiresegments for test case 47 : 12
+Routing Complete, Total Wiresegments for test case 48 : 10
+Routing Complete, Total Wiresegments for test case 49 : 8
+Routing Complete, Total Wiresegments for test case 50 : 3
+Routing Complete, Total Wiresegments for test case 51 : 6
+Routing Complete, Total Wiresegments for test case 52 : 20
+Routing Complete, Total Wiresegments for test case 53 : 5
+Routing Complete, Total Wiresegments for test case 54 : 10
+Routing Complete, Total Wiresegments for test case 55 : 19
+Routing Complete, Total Wiresegments for test case 56 : 13
+Routing Complete, Total Wiresegments for test case 57 : 18
+Routing Complete, Total Wiresegments for test case 58 : 6
+Routing Complete, Total Wiresegments for test case 59 : 9
+Routing Complete, Total Wiresegments for test case 60 : 11
+Routing Complete, Total Wiresegments for test case 61 : 10
+Routing Complete, Total Wiresegments for test case 62 : 14
+Routing Complete, Total Wiresegments for test case 63 : 13
+Routing Complete, Total Wiresegments for test case 64 : 18
+Routing Complete, Total Wiresegments for test case 65 : 5
+Routing Complete, Total Wiresegments for test case 66 : 7
+Routing Complete, Total Wiresegments for test case 67 : 7
+Routing Complete, Total Wiresegments for test case 68 : 3
+Routing Complete, Total Wiresegments for test case 69 : 4
+Routing Complete, Total Wiresegments for test case 70 : 5
+Routing Complete, Total Wiresegments for test case 71 : 6
+Routing Complete, Total Wiresegments for test case 72 : 17
+Routing Complete, Total Wiresegments for test case 73 : 7
+Routing Complete, Total Wiresegments for test case 74 : 13
+Routing Complete, Total Wiresegments for test case 75 : 14
+Total number of routing segments used: 775
+Total running time for routing is (seconds): 0.233436
+
+Run 25: Runtime = 0.233436 seconds

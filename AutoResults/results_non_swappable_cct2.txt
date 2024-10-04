@@ -1,0 +1,729 @@
+Test case: ../test_circuits/cct2
+Average runtime over 25 runs: 0.010008 seconds
+Total time taken for the experiment: 0.31 seconds
+
+
+Run 1 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009755
+
+Run 1: Runtime = 0.009755 seconds
+
+Run 2 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.011106
+
+Run 2: Runtime = 0.011106 seconds
+
+Run 3 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.010021
+
+Run 3: Runtime = 0.010021 seconds
+
+Run 4 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009909
+
+Run 4: Runtime = 0.009909 seconds
+
+Run 5 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009902
+
+Run 5: Runtime = 0.009902 seconds
+
+Run 6 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009904
+
+Run 6: Runtime = 0.009904 seconds
+
+Run 7 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009999
+
+Run 7: Runtime = 0.009999 seconds
+
+Run 8 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009882
+
+Run 8: Runtime = 0.009882 seconds
+
+Run 9 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.010194
+
+Run 9: Runtime = 0.010194 seconds
+
+Run 10 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009888
+
+Run 10: Runtime = 0.009888 seconds
+
+Run 11 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009959
+
+Run 11: Runtime = 0.009959 seconds
+
+Run 12 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009936
+
+Run 12: Runtime = 0.009936 seconds
+
+Run 13 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.00993
+
+Run 13: Runtime = 0.00993 seconds
+
+Run 14 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.010058
+
+Run 14: Runtime = 0.010058 seconds
+
+Run 15 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009878
+
+Run 15: Runtime = 0.009878 seconds
+
+Run 16 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009944
+
+Run 16: Runtime = 0.009944 seconds
+
+Run 17 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009932
+
+Run 17: Runtime = 0.009932 seconds
+
+Run 18 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009906
+
+Run 18: Runtime = 0.009906 seconds
+
+Run 19 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009907
+
+Run 19: Runtime = 0.009907 seconds
+
+Run 20 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009929
+
+Run 20: Runtime = 0.009929 seconds
+
+Run 21 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.010223
+
+Run 21: Runtime = 0.010223 seconds
+
+Run 22 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009997
+
+Run 22: Runtime = 0.009997 seconds
+
+Run 23 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.009912
+
+Run 23: Runtime = 0.009912 seconds
+
+Run 24 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.010111
+
+Run 24: Runtime = 0.010111 seconds
+
+Run 25 Output:
+FPGA Gridsize:8
+FPGA Number of Tracks in each channel:12
+Total Number of Test Cases:20
+Routing Complete, Total Wiresegments for test case 0 : 5
+Routing Complete, Total Wiresegments for test case 1 : 5
+Routing Complete, Total Wiresegments for test case 2 : 5
+Routing Complete, Total Wiresegments for test case 3 : 6
+Routing Complete, Total Wiresegments for test case 4 : 6
+Routing Complete, Total Wiresegments for test case 5 : 4
+Routing Complete, Total Wiresegments for test case 6 : 7
+Routing Complete, Total Wiresegments for test case 7 : 7
+Routing Complete, Total Wiresegments for test case 8 : 5
+Routing Complete, Total Wiresegments for test case 9 : 8
+Routing Complete, Total Wiresegments for test case 10 : 6
+Routing Complete, Total Wiresegments for test case 11 : 3
+Routing Complete, Total Wiresegments for test case 12 : 7
+Routing Complete, Total Wiresegments for test case 13 : 9
+Routing Complete, Total Wiresegments for test case 14 : 5
+Routing Complete, Total Wiresegments for test case 15 : 3
+Routing Complete, Total Wiresegments for test case 16 : 7
+Routing Complete, Total Wiresegments for test case 17 : 10
+Routing Complete, Total Wiresegments for test case 18 : 5
+Routing Complete, Total Wiresegments for test case 19 : 2
+Total number of routing segments used: 114
+Total running time for routing is (seconds): 0.010024
+
+Run 25: Runtime = 0.010024 seconds
